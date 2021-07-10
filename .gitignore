@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+pluralsight-designing-react-components-course-code-master/*
+node_modules
+# Next.js build output
+.next
+
+package-lock.json
+.idea
